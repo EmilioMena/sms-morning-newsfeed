@@ -3,7 +3,7 @@ SMS sending application that gathers sports, weather and stock information direc
 
 NBA API
 https://github.com/swar/nba_api
-https://stats.nba.com/
+| https://stats.nba.com/
 
 Stock API
 https://www.alphavantage.co/
